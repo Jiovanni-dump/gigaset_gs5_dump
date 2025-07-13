@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<PrizeMorningKillFilter>
+    <ProtectProcessList>com.whatsapp</ProtectProcessList>
+    <PackageFilterList>com.facebook.katana</PackageFilterList>
+    <PackageFilterList>com.twitter.android</PackageFilterList>
+    <PackageFilterList>com.google.android.talk</PackageFilterList>
+    <PackageFilterList>com.skype.raider</PackageFilterList>
+    <PackageFilterList>com.viber.voip</PackageFilterList>
+    <PackageFilterList>com.facebook.orca</PackageFilterList>
+    <PackageFilterList>com.snapchat.android</PackageFilterList>
+    <PackageFilterList>com.instagram.android</PackageFilterList>
+</PrizeMorningKillFilter>

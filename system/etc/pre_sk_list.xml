@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<PrizeSmartKiller>
+    <ProtectedPackage>com.pri.longshotscreen</ProtectedPackage>
+	<ProtectedPackage>com.prize.browser</ProtectedPackage>
+	<ProtectedPackage>com.pri.dynamic.island</ProtectedPackage>
+    <ProtectedProcess></ProtectedProcess>
+</PrizeSmartKiller>

@@ -1,0 +1,9 @@
+on property:persist.sys.pri_aee_db=1
+    setprop persist.vendor.mtk.aee.mode 3
+    setprop persist.vendor.aee.db.count 50
+    setprop persist.vendor.aee.fatal_db.count 8
+
+on property:persist.sys.pri_aee_db=0
+    setprop persist.vendor.mtk.aee.mode 4
+    setprop persist.vendor.aee.db.count 4
+    setprop persist.vendor.aee.fatal_db.count 4
