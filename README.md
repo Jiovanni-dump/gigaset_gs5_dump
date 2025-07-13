@@ -1,0 +1,14 @@
+# GS5-user 13 TP1A.220624.014 1693463242 release-keys
+- manufacturer: gigaset
+- platform: mt6768
+- codename: GS5
+- flavor: sys_mssi_64_ww-user
+- release: 13
+- id: TP1A.220624.014
+- incremental: 1693462027
+- tags: release-keys
+- fingerprint: Gigaset/GS5_EEA/GS5:13/TP1A.220624.014/1693462027:user/release-keys
+- is_ab: true
+- brand: Gigaset
+- branch: GS5-user-13-TP1A.220624.014-1693463242-release-keys
+- repo: gigaset_gs5_dump
